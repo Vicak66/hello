@@ -1,0 +1,10 @@
+body{
+    background-color: aquamarine;
+}
+
+header{
+    background-color: brown;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
